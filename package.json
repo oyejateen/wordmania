@@ -1,0 +1,14 @@
+{
+  "name": "wordmania-web",
+  "version": "1.0.0",
+  "description": "Landing page for WordMania vocabulary app",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "author": "WordMania Team",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+} 
